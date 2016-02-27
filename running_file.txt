@@ -1,0 +1,26 @@
+jiaqi@jiaqi-535U3C:~/Dropbox/cosi166b_jiaqli4/mazes$ ruby maze.rb
+display the loaded maze:
++-+-+-+-+
+|   |   |
++-+ + + +
+|   | | |
++ +-+ + +
+|     | |
++-+ +-+ +
+|     | |
++-+-+-+-+
+solve(0, 2, 3, 0):
+true
+trace(0, 2, 3, 0):
+[[0, 2], [1, 2], [2, 2], [2, 1], [2, 0], [3, 0]]
+display the redisigned maze:
+redisigned maze is :
++-+-+-+-+
+|       |
++-+     +
+| |     |
++ +-+   +
+|   |   |
++-+ +-+ +
+| |   | |
++-+-+-+-+
